@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CodazaFluentBuilder.Employee">
+    <Position X="4.5" Y="2" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodazaFluentBuilder.EmployeeReport">
+    <Position X="6.25" Y="1.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAEAEAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EmployeeReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodazaFluentBuilder.EmployeeReportBuilder" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="3.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABABAAAAAAAAAAAABBAAAAAAAAAAAAAAAAgEAA=</HashCode>
+      <FileName>EmployeeReportBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" Collapsed="true" />
+  </Class>
+  <Class Name="CodazaFluentBuilder.EmployeeReportDirector">
+    <Position X="6.25" Y="4" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAACAA=</HashCode>
+      <FileName>EmployeeReportDirector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CodazaFluentBuilder.IEmployeeReportBuilder">
+    <Position X="8.75" Y="5.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABABAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>IEmployeeReportBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

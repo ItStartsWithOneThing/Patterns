@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Builder.Battery" Collapsed="true">
+    <Position X="12.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Battery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.Camera" Collapsed="true">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.FrontCamera" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FrontCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.MacroCamera" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MacroCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.MainCamera" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.Manufacturer" Collapsed="true">
+    <Position X="14" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Manufacturer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.OS" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.PortraitCamera" Collapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PortraitCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.SmartPhone" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAkAAACAAAAAAAAAAAAE=</HashCode>
+      <FileName>SmartPhone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.SmartPhoneBuilder">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEQAAAAAAAAAAAAAAAAAQAAAAAAAACQEABIEAEAAAA=</HashCode>
+      <FileName>SmartPhoneBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.UltraWideCamera" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UltraWideCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.XiaomiMi6PhoneBuilder">
+    <Position X="3.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEAAAAAAAAAAAAAAAAAAAAAAAAAAACQEABIEAEAAAA=</HashCode>
+      <FileName>XiaomiMi6PhoneBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

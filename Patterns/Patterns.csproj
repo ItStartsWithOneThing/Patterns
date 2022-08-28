@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Adapter\Adapter.csproj" />
+    <ProjectReference Include="..\Bridge\Bridge.csproj" />
+    <ProjectReference Include="..\CodazaFluentBuilder\Fluent_Builder.csproj" />
+    <ProjectReference Include="..\Facade\Facade.csproj" />
+    <ProjectReference Include="..\Strategy\Strategy.csproj" />
+  </ItemGroup>
+
+</Project>
